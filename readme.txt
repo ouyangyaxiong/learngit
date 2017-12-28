@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 :
 dsfsdf
 Git tracks changes of files.
+bug fixed
