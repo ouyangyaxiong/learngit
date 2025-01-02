@@ -8,4 +8,5 @@ master添加2
 基于maset创建，hotfix添加
 
 test1分支添加1
-test2添加1	
+test2添加1
+test2 add 2 
